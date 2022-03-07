@@ -1,5 +1,5 @@
 # ArtDegeneratiu
-Projecte d'art (de)Generatiu amb interacció amb webcam fet amb P5JS
+Projecte d'art (de)Generatiu amb interacció amb webcam fet amb P5JS <a href="https://blai-c.github.io/ArtDegeneratiu/" target="_blank">(link)</a>
 ## How it works:
 Utilitzant la llibreria P5JS i HandsFree detecta gestos de la ma i mostra una vista o una altra segons el gest.
 ## Interactions
